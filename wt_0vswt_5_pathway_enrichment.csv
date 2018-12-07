@@ -1,0 +1,40 @@
+,Pathway total,Hits.total,Hits.sig,EASE,FET,Gamma
+"Valine, leucine and isoleucine biosynthesis",11,6,6,0.0011129,4.14E-05,0.00022929
+"Valine, leucine and isoleucine degradation",38,10,7,0.0042787,0.00054014,0.00023332
+Aminoacyl-tRNA biosynthesis,69,22,10,0.01222,0.0034757,0.00024377
+One carbon pool by folate,9,7,4,0.12571,0.026453,0.00045828
+Phenylalanine metabolism,11,4,3,0.16084,0.022584,0.00055838
+"Glycine, serine and threonine metabolism",31,20,6,0.31331,0.15622,0.0013354
+Arginine and proline metabolism,44,23,6,0.43573,0.25247,0.0027499
+Tyrosine metabolism,44,13,4,0.45021,0.21562,0.0030002
+Butanoate metabolism,22,9,3,0.52439,0.22997,0.0047209
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,4,2,0.56372,0.16233,0.0060368
+Biosynthesis of unsaturated fatty acids,42,4,2,0.56372,0.16233,0.0060368
+Glycerophospholipid metabolism,30,10,3,0.58477,0.28582,0.0068985
+Pentose phosphate pathway,19,11,3,0.63933,0.3426,0.0098175
+Pantothenate and CoA biosynthesis,15,11,3,0.63933,0.3426,0.0098175
+D-Glutamine and D-glutamate metabolism,5,5,2,0.64564,0.23809,0.010234
+Methane metabolism,9,5,2,0.64564,0.23809,0.010234
+Citrate cycle (TCA cycle),20,7,2,0.76637,0.39021,0.02361
+Vitamin B6 metabolism,9,7,2,0.76637,0.39021,0.02361
+Histidine metabolism,15,9,2,0.84612,0.52756,0.043905
+Porphyrin and chlorophyll metabolism,27,9,2,0.84612,0.52756,0.043905
+Glyoxylate and dicarboxylate metabolism,18,10,2,0.87515,0.58799,0.056415
+Cysteine and methionine metabolism,27,11,2,0.89874,0.64252,0.070261
+Lysine degradation,23,11,2,0.89874,0.64252,0.070261
+Tryptophan metabolism,40,13,2,0.93342,0.73435,0.10111
+"Alanine, aspartate and glutamate metabolism",24,15,2,0.95627,0.8054,0.13481
+Steroid hormone biosynthesis,72,16,2,0.96457,0.8342,0.15228
+Pyrimidine metabolism,41,24,2,0.99348,0.9575,0.29238
+Glycolysis or Gluconeogenesis,26,9,1,1,0.84782,1
+Fatty acid biosynthesis,43,3,1,1,0.46499,1
+Steroid biosynthesis,35,11,1,1,0.90011,1
+Taurine and hypotaurine metabolism,8,4,1,1,0.56587,1
+Glutathione metabolism,26,14,1,1,0.94697,1
+Linoleic acid metabolism,6,1,1,1,0.188,1
+Pyruvate metabolism,23,8,1,1,0.81223,1
+Thiamine metabolism,7,4,1,1,0.56587,1
+Biotin metabolism,5,2,1,1,0.34081,1
+Folate biosynthesis,16,6,1,1,0.71436,1
+Terpenoid backbone biosynthesis,15,5,1,1,0.64781,1
+Nitrogen metabolism,9,4,1,1,0.56587,1
